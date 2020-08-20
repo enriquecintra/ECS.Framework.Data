@@ -1,4 +1,4 @@
-﻿using LeoMadeiras.Framework.Configuration;
+﻿using ECS.Framework.Configuration;
 
 namespace ECS.Framework.Data.RethinkDB
 {

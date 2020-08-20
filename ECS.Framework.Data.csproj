@@ -10,7 +10,7 @@
     <PackageReference Include="AspNetCore.HealthChecks.MongoDb" Version="3.0.1" />
     <PackageReference Include="AspNetCore.HealthChecks.System" Version="3.0.3" />
     <PackageReference Include="Dapper" Version="2.0.30" />
-    <PackageReference Include="leomadeiras.framework" Version="1.0.0" />
+    <PackageReference Include="ECS.Framework" Version="1.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
     <PackageReference Include="MongoDB.Driver" Version="2.10.2" />
     <PackageReference Include="RethinkDb.Driver" Version="2.3.150" />
